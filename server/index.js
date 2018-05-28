@@ -10,10 +10,10 @@ const subjects = [];
 
 // this was public already, oh well...
 var client = new Twitter({
-    consumer_key: 'Qr4aLdymVjqPa0yfo3PDhOIzV',
-    consumer_secret: '4ONlJHN4sB2wcIT5TlVv6qAp241EbaRpfvHSYVA0BRt2dbcs7a',
-    access_token_key: '49913463-vDAqrW57QEJ3MeIdjGZ44SySVIUyxuejBTMvK0Zex',
-    access_token_secret: 'vnUeDACnevhjrWuVDppKevuvwzU0cntFiuliHs7Uu0xm0'
+    consumer_key: '<ckey>',
+    consumer_secret: '<csecret>',
+    access_token_key: '<atk>',
+    access_token_secret: '<ats>'
   });
 
   // Middleware
